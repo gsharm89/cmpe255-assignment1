@@ -1,7 +1,7 @@
 # cmpe255-spring2019
 #Assignment #1: Yelp Dataset Review Classifier
 
-Cross Validation Scores:  [0.82105895 0.82266472 0.82223889]
+Cross Validation Scores:  [0.82105895 0.82266472 0.82223889] \n
 Accuracy: 0.827
              precision    recall  f1-score   support
 
